@@ -1,0 +1,4 @@
+resource_group_name = "LouiseBrigida-3CMS"
+location            = "eastus"
+prefix              = "proj01"
+ssh_public_key      = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDHJYZbIvsBhy/g+zWMIgqyTIAcRCOrFfSjpKdsW3bJmgp0phDRH0fP7tw0xHnFDZYptw3xRJB88VK8HBkdbOnTymheCOgfjCLA19h4qlA9S2ZqkuhuzNwEWhh9qUEk0JDhOtyFIVTA1i9EqixVs5znyONKsuaThNxipX42ikIe6N+6Nt8kEH4h7JogJjbg9IEbhnlZKG3L8Ik45YNyeEVVLyZNeJ4LDQL5Jp2QBFg6/LivAyN8dwGEA9qJtN49m3HyZPJmSjZ46mYevsOzcFMhwLDFgHpzcGJBEJCjyupBNLDCJukL/eDCLlOmcX9DI426XpdfR1CbvW7gzsJKfnq4kYdjXfIwe21gA2cR41v3VVzKPaM62MahQNqp7V5Nx657VIbvNEhF1BB0VbhN3hM0Lj8MIrBzEY5+OCtznOuTa8Q21IIqFKPasaUotLyvDp+9uukivfOKLoTmxdaEM0BsJG5mzEGAL66sCmHrGXieeRoH9Ib38hWVYQnBQWDAThrZG20tAvLEeCWDcjKTSZyQtqogy5lpWE1rwyz24RGPAD29v/HCLHYD0fbAZLuxq6+ClfalnZX/ZW+nuanOcKfOWhy4epTdf0cB0LX6th07gS7l+DVRw5ZIX4TE0AuYJHRO/WVFlFDV1HXGKpKqs6jlJ9xG5V1YBcncrKlkDA9X9w== lmcbrigida@gmail.com"
