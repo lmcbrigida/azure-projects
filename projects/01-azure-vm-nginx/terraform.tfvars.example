@@ -1,0 +1,4 @@
+resource_group_name = "MyExistingResourceGroup"
+location            = "eastus"
+prefix              = "proj01"
+ssh_public_key      = "ssh-rsa AAAA... yourkey"
